@@ -124,7 +124,7 @@ header h1{
 .rodape_letra{
     font-size: 1.5rem;
 }
-@media (max-width: 1500px){
+@media (max-width: 900px){
 .cabecalho{
     padding: 10%;
 }
