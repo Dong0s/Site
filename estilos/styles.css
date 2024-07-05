@@ -124,11 +124,12 @@ header h1{
 .rodape_letra{
     font-size: 1.5rem;
 }
-@media (max-width: 900px){
+@media (max-width: 1000px){
 .cabecalho{
     padding: 10%;
 }
 .cabecalho_menu{
+    display: flex;
     justify-content: center;
 
 }
@@ -137,5 +138,11 @@ header h1{
 }
 .apresentacao__conteudo{
     width: auto;
+}
+.foto2{
+    width: 100%;
+}
+.apresentacao__links__navegacao{
+    width: 100%;
 }
 }
