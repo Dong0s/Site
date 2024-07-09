@@ -114,17 +114,21 @@ header h1{
     background-color: var(--cor-hover);
 }
 .rodape{
-    padding: 24px;
-    color: #c49e9e;
+    padding: 8px;
+    color: white;
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--font-secundaria);
     font-weight: 400;
 } 
+.linksdd{
+    color: white;
+    margin-left: 15px;
+}
 .rodape_letra{
     font-size: 1.5rem;
 }
-@media (max-width: 1000px){
+@media (max-width: 1600px){
 .cabecalho{
     padding: 10%;
 }
