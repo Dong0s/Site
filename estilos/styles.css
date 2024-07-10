@@ -23,13 +23,15 @@ body{
 }
 .cabecalho_menu{
     display: flex;
-    gap: 80px;
+    gap: 100px;
+    justify-content: center;
+    margin-right: 20%;
 }
 .cabecalho_menu_link{
     color: var(--cor-terciaria);
     font-family: var(--font-secundaria);
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     text-decoration: none;
 }
 h1 {
@@ -135,6 +137,7 @@ header h1{
 .cabecalho_menu{
     display: flex;
     justify-content: center;
+    width: 105%;
 
 }
     .apresentacao{
