@@ -15,7 +15,7 @@
 }
 body{
     box-sizing: border-box;
-    background-color: var(--cor-primaria);
+    background-image: url(lua\ fundo.jpg);
     color: var(--cor-secundaria);
 }
 .cabecalho{
