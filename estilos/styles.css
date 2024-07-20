@@ -107,6 +107,7 @@ header h1{
     color: var(--cor-secundaria);
     font-family: var(--font-secundaria);
     font-weight: 600;
+    transition: background-color 0.3s;
 }
 .fotociryllo{
     border: 4px solid var(--cor-terciaria);
